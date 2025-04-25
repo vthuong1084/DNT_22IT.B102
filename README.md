@@ -1,6 +1,5 @@
-# i_am_rich
+# challenge1
 
 A new Flutter project.
 
-Lab 1: I Am Rich - How to Create Flutter Apps From Scratch Apps From
-
+Lab 4: Challenge 1 - Magic 8 Ball
