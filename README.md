@@ -1,6 +1,6 @@
-# i_am_rich
+# xylophone
 
 A new Flutter project.
 
-Lab 1: I Am Rich - How to Create Flutter Apps From Scratch Apps From
+Lab 5: Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
